@@ -239,28 +239,7 @@ This is privilege is ideal for the delivery-agent(s).
   </tr>
 </table>
 
-## 😎 Team Members
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/83509023?v=4" width="150px" alt="GSSoC'22" />
-      <br/>
-      Varun Kumar Tiwari
-      <br/>
-      2020IMT-112
-      <br/>
-      <a href="https://www.linkedin.com/in/varun-tiwari-454591178/">LinkedIn</a>
-      <a href="https://github.com/varunKT001">Github</a>
-    </td> 
-  </tr>
-</table>
-
 ## 🙌 Thanks to all the contributors
-
-<a href="https://github.com/varunKT001/tomper-wear-ecommerce/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=varunKT001/tomper-wear-ecommerce" />
-</a>
 
 ## ⚖ License
 
